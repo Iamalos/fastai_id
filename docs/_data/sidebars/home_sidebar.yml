@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: Test
+      title: fastai_id
       url: /core
     output: web
     title: fastai_id
