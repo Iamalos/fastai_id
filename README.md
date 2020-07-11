@@ -2,6 +2,11 @@
 > An amazing tutorial
 
 
+```python
+%load_ext autoreload
+%autoreload 2
+```
+
 We hope you enjoy this project
 
 ## Install
@@ -11,16 +16,5 @@ We hope you enjoy this project
 ## How to use
 
 Let's see this at work:
-
-```python
-say_hello('Ivan')
-```
-
-
-
-
-    'Hello Ivan!'
-
-
 
 This calls a function <b>say_hello</b>. 

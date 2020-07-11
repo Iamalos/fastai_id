@@ -11,7 +11,10 @@ entries:
       url: /
     - output: web,pdf
       title: fastai_id
-      url: /core
+      url: /matmul
+    - output: web,pdf
+      title: Foundations Version
+      url: /fully_connected
     output: web
     title: fastai_id
   output: web
